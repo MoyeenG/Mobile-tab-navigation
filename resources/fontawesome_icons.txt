@@ -1,0 +1,7 @@
+<i class="fa-solid fa-house"></i>
+
+<i class="fa-solid fa-briefcase"></i>
+
+<i class="fa-solid fa-blog"></i>
+
+<i class="fa-solid fa-people-roof"></i>
